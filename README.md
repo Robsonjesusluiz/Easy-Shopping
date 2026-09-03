@@ -19,5 +19,7 @@
   Otimização de seletores para melhor performance de renderização.Sugestões de boas práticas de design pattern.
   
 <img src="https://github.com/Robsonjesusluiz/Easy-Shopping/blob/main/assets/Projeto%20css%20para%20computador%20e%20pc%20-%20mulher%20no%20celular.png?raw=true"/>
+<br>
+<a href="https://github.com/Robsonjesusluiz/Easy-Shopping/blob/main/assets/Projeto%20css%20para%20computador%20e%20pc%20-%20mulher%20no%20celular.png?raw=true"/>Site</a>
 
 #WebDevelopment #Frontend #HTML5 #CSS3 #GoogleAI #Productivity #VagaJunior
